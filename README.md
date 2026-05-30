@@ -2,7 +2,7 @@
 
 A playground for testing device drivers and examples on RP2040 using TinyGo.
 
-<video src="output.webp" controls autoplay loop muted></video>
+![video](output.webp)
 
 ## What's included
 
