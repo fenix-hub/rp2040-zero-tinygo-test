@@ -102,6 +102,12 @@ var WHITE = color.RGBA{255, 255, 255, 255}
 - `main.go` — example application
 - `go.mod` / `go.sum` — dependencies
 
+## BOM
+This is the bill of materials:
+- [RP2040-zero](https://it.aliexpress.com/item/1005010768723373.html?spm=a2g0o.order_list.order_list_main.11.7fa33696r4LsTd&gatewayAdapt=glo2ita)
+- [OLED](https://it.aliexpress.com/item/1005007672413060.html?spm=a2g0o.order_list.order_list_main.198.7fa33696r4LsTd&gatewayAdapt=glo2ita)
+- [EC11](https://it.aliexpress.com/item/1005006127287538.html?spm=a2g0o.order_list.order_list_main.35.7fa33696r4LsTd&gatewayAdapt=glo2ita)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
